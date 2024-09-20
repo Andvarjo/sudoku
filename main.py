@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 
 
 
-imagen_ruta = 'captura.png' # for loading the sudoku image
+imagen_ruta = 'sudoku3.png' # for loading the sudoku image
 img = pre_process.pre_grid(imagen_ruta) #obtain sudoku processed board image
 
 
