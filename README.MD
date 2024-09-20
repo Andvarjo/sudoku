@@ -14,7 +14,7 @@ For this project, we will use the OpenCV library to extract the Sudoku puzzle fr
 
 
 ### Process
-![Process Drawing](sudoku/process.jpg)
+![Process Drawing](process.jpg)
 
 ### Steps
 
